@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ChainofResponsibility
+{
+    public class ConcreteHandlerMpg : PlayerHandler
+    {
+        public override void Play(string filePath)
+        {
+
+            if (filePath.EndsWith(".mpg"))
+            {
+                Console.WriteLine("{0} dosyası oynatılıyor(mpg player)", filePath);
+            }
+            else
+            {
+                if (_SonrakiHandler != null)
+                    _SonrakiHandler.Play(filePath);
+            }
+        }
+    }
+}

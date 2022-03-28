@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\Facade\Facade\bin\Debug\Facade.exe.config
+C:\Users\bilal\source\repos\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\bilal\source\repos\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\bilal\source\repos\Facade\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\bilal\source\repos\Facade\Facade\obj\Debug\Facade.pdb

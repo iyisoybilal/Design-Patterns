@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\StratejiDeneme\StratejiDeneme\bin\Debug\StratejiDeneme.exe.config
+C:\Users\bilal\source\repos\StratejiDeneme\StratejiDeneme\bin\Debug\StratejiDeneme.exe
+C:\Users\bilal\source\repos\StratejiDeneme\StratejiDeneme\bin\Debug\StratejiDeneme.pdb
+C:\Users\bilal\source\repos\StratejiDeneme\StratejiDeneme\obj\Debug\StratejiDeneme.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\StratejiDeneme\StratejiDeneme\obj\Debug\StratejiDeneme.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\StratejiDeneme\StratejiDeneme\obj\Debug\StratejiDeneme.exe
+C:\Users\bilal\source\repos\StratejiDeneme\StratejiDeneme\obj\Debug\StratejiDeneme.pdb

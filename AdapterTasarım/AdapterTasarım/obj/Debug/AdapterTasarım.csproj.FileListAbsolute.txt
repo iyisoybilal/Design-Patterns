@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\AdapterTasarım\AdapterTasarım\bin\Debug\AdapterTasarım.exe.config
+C:\Users\bilal\source\repos\AdapterTasarım\AdapterTasarım\bin\Debug\AdapterTasarım.exe
+C:\Users\bilal\source\repos\AdapterTasarım\AdapterTasarım\bin\Debug\AdapterTasarım.pdb
+C:\Users\bilal\source\repos\AdapterTasarım\AdapterTasarım\obj\Debug\AdapterTasarım.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\AdapterTasarım\AdapterTasarım\obj\Debug\AdapterTasarım.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\AdapterTasarım\AdapterTasarım\obj\Debug\AdapterTasarım.exe
+C:\Users\bilal\source\repos\AdapterTasarım\AdapterTasarım\obj\Debug\AdapterTasarım.pdb

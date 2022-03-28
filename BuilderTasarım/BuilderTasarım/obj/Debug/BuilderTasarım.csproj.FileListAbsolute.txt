@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\BuilderTasarım\BuilderTasarım\obj\Debug\BuilderTasarım.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\BuilderTasarım\BuilderTasarım\obj\Debug\BuilderTasarım.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\BuilderTasarım\BuilderTasarım\bin\Debug\BuilderTasarım.exe.config
+C:\Users\bilal\source\repos\BuilderTasarım\BuilderTasarım\bin\Debug\BuilderTasarım.exe
+C:\Users\bilal\source\repos\BuilderTasarım\BuilderTasarım\bin\Debug\BuilderTasarım.pdb
+C:\Users\bilal\source\repos\BuilderTasarım\BuilderTasarım\obj\Debug\BuilderTasarım.exe
+C:\Users\bilal\source\repos\BuilderTasarım\BuilderTasarım\obj\Debug\BuilderTasarım.pdb

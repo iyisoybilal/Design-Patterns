@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\Strateji\Strateji\bin\Debug\Strateji.exe.config
+C:\Users\bilal\source\repos\Strateji\Strateji\bin\Debug\Strateji.exe
+C:\Users\bilal\source\repos\Strateji\Strateji\bin\Debug\Strateji.pdb
+C:\Users\bilal\source\repos\Strateji\Strateji\obj\Debug\Strateji.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\Strateji\Strateji\obj\Debug\Strateji.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\Strateji\Strateji\obj\Debug\Strateji.exe
+C:\Users\bilal\source\repos\Strateji\Strateji\obj\Debug\Strateji.pdb

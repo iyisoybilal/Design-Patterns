@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\BridgeExample\BridgeExample\bin\Debug\BridgeExample.exe.config
+C:\Users\bilal\source\repos\BridgeExample\BridgeExample\bin\Debug\BridgeExample.exe
+C:\Users\bilal\source\repos\BridgeExample\BridgeExample\bin\Debug\BridgeExample.pdb
+C:\Users\bilal\source\repos\BridgeExample\BridgeExample\obj\Debug\BridgeExample.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\BridgeExample\BridgeExample\obj\Debug\BridgeExample.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\BridgeExample\BridgeExample\obj\Debug\BridgeExample.exe
+C:\Users\bilal\source\repos\BridgeExample\BridgeExample\obj\Debug\BridgeExample.pdb

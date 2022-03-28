@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\SingletonÖrnek\SingletonÖrnek\bin\Debug\SingletonÖrnek.exe.config
+C:\Users\bilal\source\repos\SingletonÖrnek\SingletonÖrnek\bin\Debug\SingletonÖrnek.exe
+C:\Users\bilal\source\repos\SingletonÖrnek\SingletonÖrnek\bin\Debug\SingletonÖrnek.pdb
+C:\Users\bilal\source\repos\SingletonÖrnek\SingletonÖrnek\obj\Debug\SingletonÖrnek.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\SingletonÖrnek\SingletonÖrnek\obj\Debug\SingletonÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\SingletonÖrnek\SingletonÖrnek\obj\Debug\SingletonÖrnek.exe
+C:\Users\bilal\source\repos\SingletonÖrnek\SingletonÖrnek\obj\Debug\SingletonÖrnek.pdb

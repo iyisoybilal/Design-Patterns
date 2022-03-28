@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\ObserverExample\ObserverExample\bin\Debug\ObserverExample.exe.config
+C:\Users\bilal\source\repos\ObserverExample\ObserverExample\bin\Debug\ObserverExample.exe
+C:\Users\bilal\source\repos\ObserverExample\ObserverExample\bin\Debug\ObserverExample.pdb
+C:\Users\bilal\source\repos\ObserverExample\ObserverExample\obj\Debug\ObserverExample.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\ObserverExample\ObserverExample\obj\Debug\ObserverExample.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\ObserverExample\ObserverExample\obj\Debug\ObserverExample.exe
+C:\Users\bilal\source\repos\ObserverExample\ObserverExample\obj\Debug\ObserverExample.pdb

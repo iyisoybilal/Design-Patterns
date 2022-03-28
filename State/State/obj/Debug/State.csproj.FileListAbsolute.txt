@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\State\State\bin\Debug\State.exe.config
+C:\Users\bilal\source\repos\State\State\bin\Debug\State.exe
+C:\Users\bilal\source\repos\State\State\bin\Debug\State.pdb
+C:\Users\bilal\source\repos\State\State\obj\Debug\State.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\State\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\State\State\obj\Debug\State.exe
+C:\Users\bilal\source\repos\State\State\obj\Debug\State.pdb

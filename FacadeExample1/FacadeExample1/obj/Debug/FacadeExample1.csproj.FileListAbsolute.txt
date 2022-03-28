@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\FacadeExample1\FacadeExample1\bin\Debug\FacadeExample1.exe.config
+C:\Users\bilal\source\repos\FacadeExample1\FacadeExample1\bin\Debug\FacadeExample1.exe
+C:\Users\bilal\source\repos\FacadeExample1\FacadeExample1\bin\Debug\FacadeExample1.pdb
+C:\Users\bilal\source\repos\FacadeExample1\FacadeExample1\obj\Debug\FacadeExample1.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\FacadeExample1\FacadeExample1\obj\Debug\FacadeExample1.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\FacadeExample1\FacadeExample1\obj\Debug\FacadeExample1.exe
+C:\Users\bilal\source\repos\FacadeExample1\FacadeExample1\obj\Debug\FacadeExample1.pdb

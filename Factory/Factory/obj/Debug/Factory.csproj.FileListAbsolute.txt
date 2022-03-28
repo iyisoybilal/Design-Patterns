@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\Factory\Factory\bin\Debug\Factory.exe.config
+C:\Users\bilal\source\repos\Factory\Factory\bin\Debug\Factory.exe
+C:\Users\bilal\source\repos\Factory\Factory\bin\Debug\Factory.pdb
+C:\Users\bilal\source\repos\Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\Factory\Factory\obj\Debug\Factory.exe
+C:\Users\bilal\source\repos\Factory\Factory\obj\Debug\Factory.pdb

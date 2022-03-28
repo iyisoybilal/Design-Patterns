@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\CompositeTasarım\CompositeTasarım\bin\Debug\CompositeTasarım.exe.config
+C:\Users\bilal\source\repos\CompositeTasarım\CompositeTasarım\bin\Debug\CompositeTasarım.exe
+C:\Users\bilal\source\repos\CompositeTasarım\CompositeTasarım\bin\Debug\CompositeTasarım.pdb
+C:\Users\bilal\source\repos\CompositeTasarım\CompositeTasarım\obj\Debug\CompositeTasarım.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\CompositeTasarım\CompositeTasarım\obj\Debug\CompositeTasarım.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\CompositeTasarım\CompositeTasarım\obj\Debug\CompositeTasarım.exe
+C:\Users\bilal\source\repos\CompositeTasarım\CompositeTasarım\obj\Debug\CompositeTasarım.pdb

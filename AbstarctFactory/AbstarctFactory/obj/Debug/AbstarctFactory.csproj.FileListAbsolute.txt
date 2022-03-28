@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\AbstarctFactory\AbstarctFactory\bin\Debug\AbstarctFactory.exe.config
+C:\Users\bilal\source\repos\AbstarctFactory\AbstarctFactory\bin\Debug\AbstarctFactory.exe
+C:\Users\bilal\source\repos\AbstarctFactory\AbstarctFactory\bin\Debug\AbstarctFactory.pdb
+C:\Users\bilal\source\repos\AbstarctFactory\AbstarctFactory\obj\Debug\AbstarctFactory.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\AbstarctFactory\AbstarctFactory\obj\Debug\AbstarctFactory.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\AbstarctFactory\AbstarctFactory\obj\Debug\AbstarctFactory.exe
+C:\Users\bilal\source\repos\AbstarctFactory\AbstarctFactory\obj\Debug\AbstarctFactory.pdb

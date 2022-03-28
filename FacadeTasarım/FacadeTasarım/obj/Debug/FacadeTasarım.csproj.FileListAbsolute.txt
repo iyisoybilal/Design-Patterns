@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\FacadeTasarım\FacadeTasarım\bin\Debug\FacadeTasarım.exe.config
+C:\Users\bilal\source\repos\FacadeTasarım\FacadeTasarım\bin\Debug\FacadeTasarım.exe
+C:\Users\bilal\source\repos\FacadeTasarım\FacadeTasarım\bin\Debug\FacadeTasarım.pdb
+C:\Users\bilal\source\repos\FacadeTasarım\FacadeTasarım\obj\Debug\FacadeTasarım.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\FacadeTasarım\FacadeTasarım\obj\Debug\FacadeTasarım.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\FacadeTasarım\FacadeTasarım\obj\Debug\FacadeTasarım.exe
+C:\Users\bilal\source\repos\FacadeTasarım\FacadeTasarım\obj\Debug\FacadeTasarım.pdb
